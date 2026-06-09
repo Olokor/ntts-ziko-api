@@ -125,7 +125,7 @@ Returns full API documentation in JSON format, including curl examples for your 
 
 ---
 
-## Team
+## Team Vibes
 Built for **NTTS Back End Web Dev Track - Week 1**
 
 #NTTSBackEndDevTrack #TechTalentSpotlight #MTA
